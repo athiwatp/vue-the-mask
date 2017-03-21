@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Mask input control for Vue.js
 
 You can use the [editor on GitHub](https://github.com/vuejs-tips/vue-the-mask/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
